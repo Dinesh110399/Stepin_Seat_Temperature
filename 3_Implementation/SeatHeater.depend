@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1631772969 source:c:\users\koush\onedrive\desktop\embedded\seatheater\fuse.c
+	<avr/io.h>
+
+1631809759 source:c:\users\koush\onedrive\desktop\embedded\seatheater\main.c
+	<avr/io.h>
+	"Activity1.h"
+	"Activity2.h"
+	"Activity3.h"
+
+1631775266 c:\users\koush\onedrive\desktop\embedded\seatheater\activity1.h
+
+1631773470 source:c:\users\koush\onedrive\desktop\embedded\seatheater\activity1.c
+	<avr/io.h>
+	<util/delay.h>
+	"Activity1.h"
+
+1631773789 source:c:\users\koush\onedrive\desktop\embedded\seatheater\activity2.c
+	<avr/io.h>
+	"Activity2.h"
+	<util/delay.h>
+
+1631773862 c:\users\koush\onedrive\desktop\embedded\seatheater\activity2.h
+	<util/delay.h>
+
+1631812112 c:\users\koush\onedrive\desktop\embedded\seatheater\activity3.h
+	<avr/io.h>
+
+1631812135 source:c:\users\koush\onedrive\desktop\embedded\seatheater\activity3.c
+	"Activity3.h"
+	<avr/io.h>
+	<util/delay.h>
+
